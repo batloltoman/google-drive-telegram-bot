@@ -4,8 +4,8 @@ class config:
     API_HASH = "180697ce69149039313535a8d77e7cf9"
     DATABASE_URL = "postgres://hvpmhssjmouhdp:3d36e23f8c088f998ee31d854daf7bf6058a4ad65c84778c9d8c8f5db555d788@ec2-54-204-99-176.compute-1.amazonaws.com:5432/d7pa9lvic5jq5r"
     SUDO_USERS = "1658647702" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/+xWIJ-sSlI705Njhl"
-    DOWNLOAD_DIRECTORY = "./downloads/13BrHt84gK6v_8l7BLlfzetd7nVVURFm-/"
+    SUPPORT_CHAT_LINK = "http://t.me/batassistlolbot"
+    DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "1082785922100-0p1teiqaedfnj2l0o82b4ianabdvrts1.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
 
